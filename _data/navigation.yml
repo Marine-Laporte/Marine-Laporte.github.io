@@ -1,0 +1,30 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Presentations"
+    url: /presentations/    
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  #- title: "Tomographic Models"
+  #  url: /tomography/
+
+  #
+  # - title: "Teaching"
+  #   url: /teaching/
+  #
+  # - title: "Outreach"
+  #   url: /year-archive/
+  #
+  # - title: "Data and Models"
+  #   url: /data-and-models/
+  
+  
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Travels"
+    url: /travels/
