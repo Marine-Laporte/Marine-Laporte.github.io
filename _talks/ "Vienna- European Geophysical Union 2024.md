@@ -1,0 +1,11 @@
+---
+title: " Talk"
+collection: talks
+type: " EGU"
+permalink: /talks/ "Vienna- European Geophysical Union 2024
+venue: " 2024-03-07"
+date:  "Vienna
+location: " Austria""
+---
+
+The frequency/magnitude distribution of earthquakes can be approximated by an exponential law whose exponent is the so-called b-value. The b-value is routinely used for probabilistic seismic hazard assessment. In this context we propose to estimate the temporal variations of the b-value together with its uncertainties. The b-value is commonly estimated using the frequentist approach of Aki (1965), but biases may arise from the choice of completeness magnitude (Mc), the magnitude below which the exponential law is no longer valid. Here we propose to describe the full frequency-magnitude distribution of earthquakes by the product of an exponential law with a detection law. The latter is characterized by two parameters, μ and σ, that we jointly estimate with b-value within a Bayesian framework. In this way, we use all the available data to recover the joint probability distribution for b-value, μ and σ. Then, we extend this approach for recovering temporal variations of the three parameters. To that aim, we randomly explore with a Markov chain Monte Carlo (McMC) method in a transdimensional framework a large number of time variation configurations of the 3 parameters. This provides posterior probability distributions of the temporal variations in b-value, μ and σ.  For an application to a seismic catalog of far-western Nepal, we show that the probability distribution of the b-value remains stable with larger uncertainties during the monsoon period when the detectability decreases significantly . This confirms that we can see variations in the b-value that are independent of variations in detectability. Our results can be compared with the results and interpretations obtained using the b-positive approach. We hope that further applications to real and experimental data can provide statistical constraints on the b-value variations and help to better understand the physical meaning behind these variations.

@@ -1,0 +1,11 @@
+---
+title: " Talk"
+collection: talks
+type: " SnT"
+permalink: /talks/ "Vienna- CTBT: Science and Technology Conference
+venue: " 2021-06-25"
+date:  "Vienna
+location: " Austria""
+---
+
+Accurate estimates of the depth of seismic events allow determining whether they are associated to a given tectonic structure. It is also a good discriminator between earthquakes and explosions. However, automatic depth determination at teleseismic distance remains a challenge: the depth phases (pP, sP), reflected on the free surface, are sometime difficult to pick in the teleseismic signal. This is particularly true when the events are intermediate magnitudes (M<5), and fall at shallow depths in complex tectonic environments. To overcome that challenge, we implement two teleseismic depth estimation methods : (1) a cepstral analysis allowing to extract the pP-sP reflected waves in a the P-coda from their phase&apos;s similarity with the direct P wave and (2) an envelope stacking procedure aiming to highlight these secondary arrivals from their energetical contents. These two complementary methods allow improving signal over noise ratios and automatically identifying coherent depth phases among the thousands of teleseismic stations and arrays available from global teleseismic networks, including those of the International Monitoring System monitored by CTBTO. We confront our results to a set of well determined regional depths determined from a dense temporary network deployed in the Nepalese Himalayas, a region of high-topography and relatively shallow seismicity.

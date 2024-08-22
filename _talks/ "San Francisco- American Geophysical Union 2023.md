@@ -1,0 +1,11 @@
+---
+title: " Talk"
+collection: talks
+type: " AGU"
+permalink: /talks/ "San Francisco- American Geophysical Union 2023
+venue: " 2023-12-14"
+date:  "San Francisco
+location: " US""
+---
+
+The b-value is a key parameter which is used to describe the characteristic behavior of earthquakes in a specific region or within clusters. Additionally, it plays a significant role in assessing probabilistic seismic hazard which thus need a robust evaluation of its uncertainty. Conventionally, the b-value is determined for a truncated seismic catalog using the frequentist approach of Aki. However, this method has limitations, as the resulting b-value is influenced by the arbitrary choice of the completeness magnitude, magnitude binning, and maximum magnitude of the catalog. These factors can introduce bias in the analysis of temporal variations. To address this issue, we use a transdimensional inversion that enables the recovery of temporal changes in the entire frequency-magnitude distribution of earthquakes, independent of the completeness magnitude. The Bayesian framework provides the full probability distribution on every temporal segments for the b-value and the two other parameters which are related to the earthquake detection ability. By employing the transdimensional approach, statistically significant changes in any of the three inverted parameters can be automatically identified and associated with a probability. Its future application to real or experimental data can help to describe the temporal evolution of the detection ability of a network as well as relating b-value changes to physical processes in the crustal field or on the fault. 
