@@ -1,5 +1,5 @@
 ---
-title: " Seismically active structures of the Main Himalayan Thrust revealed before during and after the 2015 Mw 7.9 Gorkha earthquake in Nepal"
+title: " [Co-author] Seismically active structures of the Main Himalayan Thrust revealed before during and after the 2015 Mw 7.9 Gorkha earthquake in Nepal"
 collection: publications
 permalink: /publication/2022-09-19-Adhikari_GJI_Gorkha
 date: 2022-09-19

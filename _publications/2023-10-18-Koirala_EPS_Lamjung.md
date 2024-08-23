@@ -1,5 +1,5 @@
 ---
-title: "Tectonic significance of the 2021 Lamjung Nepal mid-crustal seismic cluster"
+title: "[Co_author] Tectonic significance of the 2021 Lamjung Nepal mid-crustal seismic cluster"
 collection: publications
 permalink: /publication/2023-10-18-Koirala_EPS_Lamjung
 date: 2023-10-18
