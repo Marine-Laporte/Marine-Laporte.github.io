@@ -1,13 +1,13 @@
 ---
 title: "Paper published in Geophys. J. Int. "
-excerpt: "Understanding earthquake location uncertainties using global sensitivity analysis framework<br/><img src='/images/Sobol_article.png'>"
+excerpt: "Understanding earthquake location uncertainties using global sensitivity analysis framework <br/><img src='/images/Sobol_article.png'>"
 collection: portfolio
 date: "2024-01-27"
 ---
 
 <br/><img src='/images/source_uncertainties.png'>
 
-# Résumé en français
+# Resume en français
 Les localisations hypocentrales des séismes sont généralement obtenues par des méthodes d’inversion des arrivées des phases P et S observées aux différentes stations d’un réseau sismologique fixé. La quantification des incertitudes de localisation, notamment pour l’estimation de la profondeur, doit être améliorée pour une meilleure fiabilité des interprétations sismotectoniques et, surtout, de l'évaluation de l’aléa sismique. Dans cet article, nous proposons de mettre en lumière les effets des principales sources d'incertitude dans le problème de localisation à travers une analyse de sensibilité globale.
 Les analyses de sensibilité permettent de quantifier les effets de différentes variables d’entrée sur la variance de la sortie d’un problème. Dans cette étude, nous prenons en compte trois facteurs principaux : la géométrie du réseau de stations, la présence d'erreurs dans les observations des temps d’arrivées des phases P et S, et les erreurs dans les hypothèses d’un modèle de vitesse 1D, afin d'observer leurs effets individuels et combinés sur la localisation d’un séisme. Ces multiples sources d'incertitudes sont décrites par une douzaine de variables aléatoires dans notre modèle.
 Nous utilisons une approche d'échantillonnage de Monte-Carlo pour explorer les différentes configurations du modèle dans un schéma itératif. Les différences entre la localisation initiale "de référence" de la source sismique et les 100 000 localisations hypocentrales résultantes, obtenues par l’exploration des différentes configurations, sont analysées et interprétées à l'aide de la méthode de décomposition de la variance introduite par Sobol (1993). Cette approche, appliquée pour la première fois en sismologie, nous offre une première quantification de l'importance relative de nos variables d’entrée sur les différents paramètres de localisation, comprenant la localisation épicentrale, la profondeur et le temps origine de l’évènement. Entre autres choses, elle met en évidence l'importance critique de l'approximation du modèle de vitesse et fournit un nouvel aperçu objectif et quantitatif pour comprendre les sources d'incertitudes dans le processus d'inversion.
