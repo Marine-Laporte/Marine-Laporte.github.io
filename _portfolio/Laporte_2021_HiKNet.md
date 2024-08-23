@@ -7,4 +7,4 @@ date: "2021-04-12"
 
 
 
-* Download the paper [here](/files/LaporteçGJI_HiKNet.pdf).
+* Download the paper [here](/files/Laporte_GJI_HiKNet.pdf).
