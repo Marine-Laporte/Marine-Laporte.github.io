@@ -1,10 +1,18 @@
 ---
 title: "Paper published in Geophys. J. Int."
-excerpt: " Seismicity in far western Nepal reveals flats and ramps along the Main Himalayan Thrust <br/><img src='/images/HiKNet_article.png'>"
+excerpt: " Seismicity in far western Nepal reveals flats and ramps along the Main Himalayan Thrust <br/><img src='/images/HiKNet_network.png'>"
 collection: portfolio
 date: "2021-04-12"
 ---
 
+<br/><img src='/images/HiKNet_network.png'>
 
+# Resumé en français :
+Ce premier papier de thèse décrit les caractéristiques du réseau Himalaya-Karnali (HiKNet), le premier réseau sismologique dense déployé entre 2014 et 2016 au-dessus de la sismicité de l'extrême ouest du Népal. L’objectif de cette expérience sismologique temporaire était de résoudre la distribution spatio-temporelle de la sismicité dans cette région où de multiples rampes à profondeur mi-crustales sont suspectées et peuvent contrôler les ruptures des séismes destructeurs. Cette région n’ayant justement pas connu de forts séismes depuis plus de 500 ans, elle présente un aléa sismique très important. Nous passons en revue les procédures de localisation et complétons le catalogue des séismes qui comprend 4500 événements. Les localisations et les mécanismes aux foyers de haute qualité sont confrontés à l’imagerie géophysique et à des coupes tectoniques équilibrées afin de décrire le comportement de la sismicité et de mettre en évidence la relation entre les hétérogénéités latérales de sismicité et la géométrie des structures géologiques profondes.
+
+# English abstract : 
+Unravelling relations between lateral variations of mid-crustal seismicity and the geometry of the Main Himalayan Thrust system at depth is a key issue in seismotectonic studies of the Himalayan range. Indeed, these relations may reveal along strike changes in the behaviour of the fault at depth related to fluids, the basal friction, the thermal structure or the local geometry of the flat and ramp system and more generally of the stress build up along the fault. Some of these variations may control the intermediate, large or great earthquakes ruptures extension and are therefore crucial to document for better assessing the regional seismic hazard. Far Western Nepal is particularly exposed to large and great earthquakes, the last of which dates back from 1505 CE. The region is also associated to striking lateral spatio-temporal variations of the midcrustal seismicity monitored by the Regional Seismic Network of Surkhet-Birendranagar. This network was complemented between 2014 and 2016 by 15 temporary stations deployed above the main seismic clusters giving new potential to regional studies. Absolute, relative locations and focal mechanisms were determined to gain insight on the fault behaviour at depth. We found that the microseismicity is clustered in three belts parallel to the front of the Himalayan range and confined between the Main Boundary Thrust and the Main Central Thrust. Finest locations reveal close relationships between seismic clusters and fault segments at depth among which two mid-crustal ramps and reactivated tectonic slivers. Interpreted fault planes of computed focal mechanisms are consistent with compressive stress and regional deformation inferred from geodetic studies. Our results support a geometry of the Main Himalayan Thrust involving several fault patches at depth separated by 3 to 6 km-high ramps and tear faults. This has an impact on the assessment of the geometry of the coseismic ruptures breaking partially or totally the locked fault zone in the future.
 
 * Download the paper [here](/files/Laporte_GJI_HiKNet.pdf).
+
+<br/><img src='/images/HiKNet_cross_section.png'>
