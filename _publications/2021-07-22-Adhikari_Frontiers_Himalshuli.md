@@ -1,5 +1,5 @@
 ---
-title: " Orogenic collapse and stress adjustments revealed by an intense seismic swarm following the 2015 Gorkha earthquake in Nepal"
+title: " [Co-author] Orogenic collapse and stress adjustments revealed by an intense seismic swarm following the 2015 Gorkha earthquake in Nepal"
 collection: publications
 permalink: /publication/2021-07-22-Adhikari_Frontiers_Himalshuli
 date: 2021-07-22

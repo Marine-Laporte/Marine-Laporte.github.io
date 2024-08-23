@@ -1,5 +1,5 @@
 ---
-title: " Automatic detection for a comprehensive view of Mayotte seismicity"
+title: " [Co-author] Automatic detection for a comprehensive view of Mayotte seismicity"
 collection: publications
 permalink: /publication/2022-06-17-Retailleau_CRG_Mayotte
 date: 2022-06-17
