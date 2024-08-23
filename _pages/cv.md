@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download Full CV (English version) [here](/files/Marine_LAPORTE_CV.pdf).
+
 
 ## Education
 
-* 2019-2022: PhD, Commissariat à l'Energie Atomique et aux énergies alternatives (CEA), Ecole Normale Supérieure (ENS)
+* 2019-2022: PhD, Commissariat à l'Energie Atomique et aux énergies alternatives(CEA) Ecole Normale Supérieure(ENS)
 * 2017-2018: MSci, University of Lorraine, Nancy
-* 2014-2018: Engineering degree, Ecole nationale supérieur de Géologie (ENSG), Nancy
+* 2014-2018: Engineering degree, Ecole nationale supérieure de Géologie (ENSG), Nancy
 
 ## Experience
 
