@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Marine Laporte"
+title: "Dr. Marine Laporte"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,9 @@ redirect_from:
 
 Welcome! I am an early-career seismologist interested in the development of innovative techniques for seismicity analysis, seismotectonics and ucertainties assessment in earthquake catalogs.
 
-Since 2023, I have been a post-doc at LGL-TPE, University of Lyon working on Bayesian inversion of earthquake magnitude data to reveal spatio-temporal variations in the parameters of the Gutenberg-Richter law linking earthquake frequency and magnitude. The aim of this project is to combine observations from real data sets with those from experimental data sets to link the observed variations to physical processes controlling seismic rupture. A preprint of the manuscript is available [here](/files/Preprint_b_bayesian.pdf)
+Since 2023, I have been a post-doc at LGL-TPE, University of Lyon working on Bayesian inversion of earthquake magnitude data to reveal spatio-temporal variations in the parameters of the Gutenberg-Richter law linking earthquake frequency and magnitude. The aim of this project is to combine observations from real data sets with those from experimental data sets to link the observed variations to physical processes controlling seismic rupture. 
+
+A preprint of my latest work is available [here](/files/Preprint_b_bayesian.pdf)
 
 
 ## Keywords
