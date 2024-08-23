@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/montagne_5.jpeg'>
+<br/><img src='/images/montagne_5.jpg'>
 
 Welcome! I am an early-career seismologist interested in the development of innovative techniques for seismicity analysis, seismotectonics and ucertainties assessment in earthquake catalogs.
 
