@@ -19,24 +19,26 @@ Download Full CV (English version) [here](/files/Marine_LAPORTE_CV.pdf).
 
 ## Experience
 
-* 2023-Present: Postdoc, LGL-TPE, Université Claude Bernard, Lyon1
+* Starting September 2025 : Post-doc, ICM-CSIC, Barcelona
+* 2023-2025 : Postdoc, LGL-TPE, Université Claude Bernard, Lyon
 * 2019 : Research Assistant, Ecole Normale Supérieure
 
 ## Internships and voluntary work
 
-* 2018: Engineering school, Commissariat à l'Energie Atomique et aux énergies alternatives (CEA)
-* 2018: Msci, Centre de Recherches Pétrographiques et Géochimiques (CRPG), Nancy 
+* 2018: Engineering school internship, Commissariat à l'Energie Atomique et aux énergies alternatives (CEA)
+* 2018: MSci internship, Centre de Recherches Pétrographiques et Géochimiques (CRPG), Nancy 
 * 2015, 2017: Voluntary work with Himalaya Solaire student organization, Ladakh 
 
 ## Funding
-* 2024: \euro 2000 -- 1ères Rencontres EPOS-France - Poster award. 
+* 2025 : MSCA Post-Doctoral Research Grant - B-GRASP : Bayesian Gutenberg-Richter Analysis for understanding Seismic Processes - ICM-CSIC, Barcelona
+* 2024: 2000 \euros -- 1ères Rencontres EPOS-France - Poster award. 
 
 ## Public dissemination / outreach
 * 2022: Organization and presentation of a 3 days workshop on earthquake location, National Earthquake Monitoring Center, Katmandou
 * 2019-Present : 5 outreach presentation for primary and secondary schools, participation to local science faires
 
 ## Service and Leadership
-* 2019-Present: 4 Reviewed manuscripts 
+* 2019-Present: 5 Reviewed manuscripts 
 
 
 Download Full CV (English version) [here](/files/Marine_LAPORTE_CV.pdf).
