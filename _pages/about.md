@@ -9,12 +9,13 @@ redirect_from:
 ---
 <br/><img src='/images/montagne_5.jpg'>
 
-Welcome! I am an early-career seismologist interested in the development of innovative techniques for seismicity analysis, seismotectonics and ucertainties assessment in earthquake catalogs.
+Welcome! I am an early career researcher with seven years of experience in seismology18, expertise in statistical methods and a strong background in seismotectonics. My work has primarily focused on better understanding uncertainties in earthquake catalogues, I am particularly concerned with the utility of my research in proposing robust interpretation of the seismicity in terms of seismotectonics and seismic processes.
 
 Since 2023, I have been a post-doc at LGL-TPE, University of Lyon working on Bayesian inversion of earthquake magnitude data to reveal spatio-temporal variations in the parameters of the Gutenberg-Richter law linking earthquake frequency and magnitude. The aim of this project is to combine observations from real data sets with those from experimental data sets to link the observed variations to physical processes controlling seismic rupture. 
 
-A preprint of my latest work is available [here](/files/Preprint_b_bayesian.pdf)
+My latest article on Bayesian estimate of b-value temporal variations is published at JGR [here](/files/b_Bayesian_JGR_2025.pdf)
 
+The quick version of the b-Bayesian code will be available on my github soon. 
 
 ## Keywords
 * Seismotectonics
