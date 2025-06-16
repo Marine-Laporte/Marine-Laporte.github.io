@@ -15,7 +15,7 @@ Since 2023, I have been a post-doc at LGL-TPE, University of Lyon working on Bay
 
 My latest article on Bayesian estimate of b-value temporal variations is published at JGR [here](/files/b_Bayesian_JGR_2025.pdf)
 
-The quick version of the b-Bayesian code will be available on my github soon. 
+The latest and quick version of the b-Bayesian code is available [here](https://github.com/Marine-Laporte/b-Bayesian_binned) : 
 
 ## Keywords
 * Seismotectonics
