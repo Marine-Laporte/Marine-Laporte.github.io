@@ -11,7 +11,12 @@ redirect_from:
 
 Welcome! I am an early career researcher with seven years of experience in seismology, expertise in statistical methods and a strong background in seismotectonics. My work has primarily focused on better understanding uncertainties in earthquake catalogues, I am particularly concerned with the utility of my research in proposing robust interpretation of the seismicity in terms of seismotectonics and seismic processes.
 
-Since 2025, I have been an MSCA postdoc at the ICM-CSIC in Barcelona, working on the analysis of spatio-temporal variations in b-values. Using Bayesian tools, I seek to understand when and why this parameter changes before large earthquakes in seismically active areas. I also aim to provide more accurate seismic hazard maps for less active areas, such as Spain and France.
+Since 2025, I have been an MSCA postdoc at the ICM-CSIC in Barcelona. 
+
+My current research project focuses on analyzing the spatial and temporal variations of a parameter (b-value) derived from statistical analysis of seismicity catalogs, which is thought to be directly related to stress evolution in the surrounding medium. This parameter is key to estimating seismic hazard and is now increasingly used to document the mechanisms behind seismicity and to identify precursor seismic sequences just before ruptures.
+
+Using Bayesian tools, I seek to understand when and why this parameter changes before large earthquakes in seismically active areas. I also aim to provide more accurate seismic hazard maps for less active areas, such as Spain and France.
+
 
 My latest article on Bayesian estimate of b-value temporal variations is published at JGR [here](/files/b_Bayesian_JGR_2025.pdf)
 
