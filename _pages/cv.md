@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download Full CV (English version) [here](/files/Marine_LAPORTE_CV.pdf).
+Download Full CV (English version) [here](/files/CV_2025_Marine_Laporte.pdf).
 
 
 
