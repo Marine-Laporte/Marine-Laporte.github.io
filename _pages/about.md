@@ -26,6 +26,7 @@ The latest and quick version of the b-Bayesian code is available [here](https://
 * Seismotectonics
 * Statistical seismology
 * Bayesian inversion
+* Himalayan seismicity
 
 
 
