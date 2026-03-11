@@ -31,10 +31,11 @@ Download Full CV (English version) [here](/files/CV_2025_Marine_Laporte.pdf).
 * 2015, 2017: Voluntary work with Himalaya Solaire student organization, Ladakh 
 
 ## Funding
-* 2025 : MSCA Post-Doctoral Research Grant - B-GRASP : Bayesian Gutenberg-Richter Analysis for understanding Seismic Processes - ICM-CSIC, Barcelona
-* 2024: 2000 \euros -- 1ères Rencontres EPOS-France - Poster award. 
+* 2025 : 245 000e -- MSCA Post-Doctoral Research Grant - B-GRASP : Bayesian Gutenberg-Richter Analysis for understanding Seismic Processes - ICM-CSIC, Barcelona
+* 2024: 2000e -- 1ères Rencontres EPOS-France - Poster award. 
 
 ## Public dissemination / outreach
+* 2023-2024 : Vacataire of ENS-Lyon
 * 2022: Organization and presentation of a 3 days workshop on earthquake location, National Earthquake Monitoring Center, Katmandou
 * 2019-Present : 5 outreach presentation for primary and secondary schools, participation to local science faires
 
